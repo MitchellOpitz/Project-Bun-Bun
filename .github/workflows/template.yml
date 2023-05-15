@@ -77,6 +77,6 @@ jobs:
          BUTLER_CREDENTIALS: ${{ secrets.ITCH_IO_API_KEY }}
          CHANNEL: HTML
          ITCH_GAME: project-bun-bun
-         ITCH_USER: brainfart-studio
+         ITCH_USER: brainfartstudio
          BRANCH: itch-io
          PACKAGE: build/WebGL
